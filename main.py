@@ -16,15 +16,15 @@ x_test = tensorflow.keras.utils.normalize(x_test, axis=1)
 # # Setup the neural network model
 # model = tensorflow.keras.models.Sequential()
 # model.add(tensorflow.keras.layers.Flatten(input_shape=(28, 28)))  # picture size 28*28 pixels
-# model.add(tensorflow.keras.layers.Dense(512, activation='relu'))
-# model.add(tensorflow.keras.layers.Dense(512, activation='relu'))
+# model.add(tensorflow.keras.layers.Dense(256, activation='relu'))
+# model.add(tensorflow.keras.layers.Dense(256, activation='relu'))
 # model.add(tensorflow.keras.layers.Dense(10, activation='softmax'))
 # # This is the output layer, 10 is the number of different outputs you want. In this case, 0 to 9
 #
 # # Compile the model, and display the process
 # model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 #
-# model.fit(x_train, y_train, epochs=70)  # train the model
+# model.fit(x_train, y_train, epochs=100)  # train the model
 #
 # model.save('handwritten.model')
 #
