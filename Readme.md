@@ -3,7 +3,7 @@
 
 *Contact info: luyang.jiang2002@outlook.com*
 
-This is a machine learning project based on neural network from tensorflow package. The model was a deep neural model 
+This is a machine learning project based on neural network from tensorflow package. The model is a deep neural model 
 with two dense layers, and was trained by the mnist dataset.
 
 ### How does it work
