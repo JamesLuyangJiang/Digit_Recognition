@@ -13,6 +13,7 @@ image inside the Digits folder. All the name of the images should be continuous 
 Then run the `main.py`, it should pop out the image of the digits one by one, while show the predicted result in the
 running terminal.
 
-*Note: The predicted result might not be correct, but mostly it should work.*
+*Note: 1. The predicted result might not be correct, but mostly it should work.  
+&emsp;&emsp;&ensp;2. You should have all necessary packages installed on your computer to make it work*
 
 Reference: https://www.youtube.com/watch?v=bte8Er0QhDg
