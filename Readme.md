@@ -15,3 +15,4 @@ running terminal.
 
 *Note: The predicted result might not be correct, but mostly it should work.*
 
+Reference: https://www.youtube.com/watch?v=bte8Er0QhDg
